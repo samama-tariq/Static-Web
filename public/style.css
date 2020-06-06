@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    /* margin-right: 50px !important; */
+    padding-right: 50px !important ;
+}
+.nav-link:hover{
+    text-decoration: underline !important;
+}
+/* .bg-dark{
+    opacity: 0.9 !important;
+} */
+.container-fluid{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+#btnn{
+    margin-top: 4.5rem !important;
+}
+
+#clr{
+    color: white;
+}
+#item{
+    list-style: none;
+}
